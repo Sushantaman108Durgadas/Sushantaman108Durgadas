@@ -83,13 +83,13 @@ Automated waste-level monitoring and bin interaction.
 
 **💡 Smart Streetlight**
 
-`ESP32` `LDR` `IR/Ultrasonic` `ESP-NOW`
+`ESP32` `LDR` `IR/Ultrasonic` `FIREBASE`
 
 A connected street-lighting concept using sensing and device-to-device communication.
 
 **🔐 Embedded Home Security**
 
-`STM32` `Sensors` `OLED` `Embedded C`
+`STM32` `Sensors` `REEDSWITCh` `ESP32` `PIR` `RPi`
 
 A microcontroller-based security/access-control system.
 
