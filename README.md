@@ -339,11 +339,11 @@ I want to understand it, build it, break it, and rebuild it better.**
 <img src="https://img.shields.io/badge/GitHub-Sushantaman108Durgadas-111111?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkedin.com/in/suyash-shirsat-771476335/">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-E63946?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:suyashshirsat8@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
