@@ -62,7 +62,7 @@ I've worked with microcontrollers and connected hardware through projects involv
 - GPIO, UART, I²C and SPI
 - MQTT-based telemetry
 - **Modbus TCP / RTU**
-- ESP-NOW
+- FireBase
 - OLED displays and peripheral integration
 - Web dashboards and device monitoring
 - Arduino IDE and Wokwi
@@ -199,7 +199,7 @@ My networking work has included both academic networking concepts and real indus
 
 ### Protocols & Technologies
 
-`TCP/IP` • `MQTT` • `Modbus TCP` • `Modbus RTU` • `ESP-NOW`
+`TCP/IP` • `MQTT` • `Modbus TCP` • `Modbus RTU` • `FireBase`
 
 ### Industrial / IoT Work
 
@@ -223,7 +223,7 @@ One of my industrial projects involved connecting **PLC / process data → commu
 |---|---|:---:|
 | 🩺 Wearable Fall / Health Monitor | ESP32, MPU6050, PulseSensor, GPS | ✅ |
 | 🗑️ Smart Waste Manager | NodeMCU, Ultrasonic, Blynk, ThingSpeak | ✅ |
-| 💡 Smart Streetlight | ESP32, LDR, ESP-NOW | ✅ |
+| 💡 Smart Streetlight | ESP32, LDR, FireBase | ✅ |
 | 🔐 Home Security System | STM32, Embedded C | ✅ |
 | 🏭 Industrial Heat Exchanger System | PLC, Modbus, HMI, ESP32 | ✅ |
 | 🖼️ Image Processing Experiments | C/C++, MATLAB/Octave | ✅ |
