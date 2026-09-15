@@ -71,7 +71,7 @@ I've worked with microcontrollers and connected hardware through projects involv
 
 **🩺 Wearable Fall & Health Monitor**
 
-`ESP32` `MPU6050` `PulseSensor` `GPS` `OLED`
+`ESP32` `MPU6050` `PulseSensor` `GPS` 
 
 A wearable-oriented monitoring system combining motion, pulse and location data.
 
@@ -89,7 +89,7 @@ A connected street-lighting concept using sensing and device-to-device communica
 
 **🔐 Embedded Home Security**
 
-`STM32` `Sensors` `REEDSWITCh` `ESP32` `PIR` `RPi`
+`STM32` `Sensors` `REEDSWITCH` `ESP32` `PIR` `RPi`
 
 A microcontroller-based security/access-control system.
 
