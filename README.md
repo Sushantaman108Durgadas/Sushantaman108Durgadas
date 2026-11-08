@@ -207,7 +207,6 @@ This section represents academic and experimental work; not every item is a stan
 | Digital hardware | FPGA, Numato Mimas V2, Xilinx ISE |
 | Development | VS Code, Git, GitHub, Linux |
 
-*The toolkit reflects technologies used across projects and experiments; it is not a claim of equal proficiency in every item.*
 
 ---
 
