@@ -253,9 +253,9 @@ I believe good engineering comes from repeatedly moving between theory and imple
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sushantaman108Durgadas&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github&title_color=D9A52E&icon_color=C9232D&text_color=F4EBDD&bg_color=171B25" height="175" alt="GitHub statistics"/>
+<img src="https://github-stats-extended.vercel.app/api?username=Sushantaman108Durgadas&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github&title_color=D9A52E&icon_color=C9232D&text_color=F4EBDD&bg_color=171B25" height="175" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sushantaman108Durgadas&layout=compact&theme=dark&hide_border=true&title_color=D9A52E&text_color=F4EBDD&bg_color=171B25" height="175" alt="Most used languages"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Sushantaman108Durgadas&layout=compact&theme=dark&hide_border=true&title_color=D9A52E&text_color=F4EBDD&bg_color=171B25" height="175" alt="Most used languages"/>
 
 <br/><br/>
 
